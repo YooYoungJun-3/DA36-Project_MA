@@ -54,7 +54,7 @@ openAI GPT-4o
 
 ☑️프로젝트 시연 영상(유튜브)
 
-[https://www.youtube.com/'[F526Y-nEP4c]]
+[[https://www.youtube.com/'[F526Y-nEP4c]]](https://studio.youtube.com/video/F526Y-nEP4c/edit)
 
 
 
