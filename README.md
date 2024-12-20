@@ -54,7 +54,7 @@ openAI GPT-4o
 
 ☑️프로젝트 시연 영상(유튜브)
 
-[https://www.youtube.com/'주소'](https://youtu.be/F526Y-nEP4c)
+[https://www.youtube.com/'[주소](https://youtu.be/F526Y-nEP4c)']
 
 
 
